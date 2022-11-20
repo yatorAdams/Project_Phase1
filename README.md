@@ -41,3 +41,11 @@ As shown below.
 Foreign markets bring in more money than the domestic market. It is important to point out that both markets are important to maximize profits. Foreign markets are likely to generate extra revenue because they serve a larger audience compared to the domestic market. Investing in movies that command foreign markets would give an opportunity to make some bit of more money than a film that would only command domestic audience. However, caution should be taken as foreign markets require more funding as films need serious marketing to gain attraction and attract audiences.
 ![Value Count](market.png)
 
+# Conclusion
+The movie production industry is a profitable industry. Everything held constant, Microsoft is likely to generate good profits if it goes ahead with its investment plan.
+
+The most popular genres are drama and documentary. Microsoft should focus on these two.
+
+Foreign markets provide more opportunities to maximize profits than the domestic market. However, they require huge investments in marketing.
+
+Movie runtime doesn’t dictate the movie’s rating. Nevertheless, most movies have an average runtime of 90 minutes.
