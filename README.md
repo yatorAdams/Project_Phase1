@@ -22,3 +22,22 @@ Analysis includes data from the following sources:
 IMDB The im.db dataset shows us movie ratings and basics worth considering when planning to produce a film. This includes the best performing genres both a domestic and worldwide scale for the film in question. We are also seeing Drama, Comedy and Documentaries are top performing genre. Below and insights of my EDA.
 
 ![Value Count](ten_genres_with_highest_ratings.png)
+
+More insights is that potential competitors will include the likes of: • Buena Vista studios a subsidiary of Walt Sidney studios
+
+• Warner Bros
+• Universal studios
+• Fox studios
+• Sony pictures
+• Paramount pictures
+• Lions Gate
+• Dream Work pictures
+
+As shown below.
+![Value Count](leading_studios.png)
+
+## Comparision between Foreign and Domestic Markets
+
+Foreign markets bring in more money than the domestic market. It is important to point out that both markets are important to maximize profits. Foreign markets are likely to generate extra revenue because they serve a larger audience compared to the domestic market. Investing in movies that command foreign markets would give an opportunity to make some bit of more money than a film that would only command domestic audience. However, caution should be taken as foreign markets require more funding as films need serious marketing to gain attraction and attract audiences.
+![Value Count](market.png)
+
