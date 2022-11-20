@@ -1,3 +1,16 @@
-# Project_Phase1
+# MICROSOFT PROJECT
+## Overview
 Microsoft has been enchanted by the big companies creating original video content and now wants to get in on the fun. They have already established a movie studio but have little knowledge of what it entails to really hit the ground running in the film industry. We will use exploratory data analysis to deteremine what factors should Microsoft consider in starting their own studio. We shall analyze if it's a profitable industry. On top of that, we will see which genres are profitable and which markets are profitable to begin with.
-![Film industry image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fnews.utexas.edu%2Fwp-content%2Fuploads%2F2017%2F05%2Fpopcorn_movie_theatre.jpg&imgrefurl=https%3A%2F%2Fnews.utexas.edu%2F2021%2F03%2F22%2Fthe-texas-film-industry-needs-lawmakers-help-now%2F&tbnid=ouzYTRZNzAKh7M&vet=12ahUKEwja2orzw737AhW2UKQEHWfTDMoQMygQegUIARDsAQ..i&docid=IZkw3sBdl6pHsM&w=1660&h=1108&q=movies%20industry&ved=2ahUKEwja2orzw737AhW2UKQEHWfTDMoQMygQegUIARDsAQ)
+
+![Film industry image](https://theblackandblu.wpenginepowered.com/wp-content/uploads/2012/09/bestfilmjob.jpg)
+
+## Business understanding
+Microsoft has recently created a new movie studio and requires guidance on strategy for entering the film industry. This includes an evaluation of the types of films which are doing best at the box office, as well as the top performing genre films in the industry. Profits may vary depending on the market and the competition available. An understanding of the risks in addition to competiton and types of markets is necessary. Based on our analysis, we should be guided by the following hypothesis:
+
+* Highly rated genres in the industry
+* High earning genres in the industry
+* Competition in different markets (foreign and domestic)
+* Best performing companies in the industry to watch and learn from
+* Comparison between domestic and foreign markets in terms of profits
+
+# Data understanding and Analysis
