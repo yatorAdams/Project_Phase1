@@ -14,3 +14,10 @@ Microsoft has recently created a new movie studio and requires guidance on strat
 * Comparison between domestic and foreign markets in terms of profits
 
 # Data understanding and Analysis
+Analysis includes data from the following sources:
+* Box Office Mojo
+* IMDB
+* The Numbers
+
+IMDB The im.db dataset shows us movie ratings and basics worth considering when planning to produce a film. This includes the best performing genres both a domestic and worldwide scale for the film in question. We are also seeing the market types and their profit levels. Below and insights of my EDA.
+
