@@ -19,5 +19,6 @@ Analysis includes data from the following sources:
 * IMDB
 * The Numbers
 
-IMDB The im.db dataset shows us movie ratings and basics worth considering when planning to produce a film. This includes the best performing genres both a domestic and worldwide scale for the film in question. We are also seeing the market types and their profit levels. Below and insights of my EDA.
+IMDB The im.db dataset shows us movie ratings and basics worth considering when planning to produce a film. This includes the best performing genres both a domestic and worldwide scale for the film in question. We are also seeing Drama, Comedy and Documentaries are top performing genre. Below and insights of my EDA.
 
+![Value Count](ten_genres_with_highest_ratings.png)
